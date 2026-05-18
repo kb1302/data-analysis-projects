@@ -14,6 +14,8 @@ Data analysis and computational modelling scripts from undergraduate physics lab
 
 **Tools:** Python, NumPy, Pandas, Matplotlib, SciPy, statsmodels
 
+<img src="physics-lab-analysis/charge_to_mass_thumbnail.png" alt="Charge-to-mass ratio of the electron" width="600">
+
 ## Skills Demonstrated
 - Data cleaning, transformation, and validation
 - Statistical modelling and curve fitting with uncertainty analysis
