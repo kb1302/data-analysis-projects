@@ -10,7 +10,7 @@ Analysis of demographic and behavioral patterns among founders of unicorn compan
 **Tools:** Python, Pandas, Matplotlib, NumPy, openpyxl
 
 ### [Physics & Computational Analysis](./physics-lab-analysis/)
-Data analysis and computational modelling scripts from undergraduate physics laboratory work at the University of Toronto. Covers signal processing and time series analysis (convolution, seismic smoothing, RL circuits, atmospheric methane forecasting), experimental physics (Hall effect, Millikan oil drop, diode characterization, electron charge-to-mass ratio, pendulum dynamics, capacitor discharge), and statistical mechanics.
+Data analysis and computational modelling scripts from undergraduate physics laboratory work at the University of Toronto. Techniques include signal processing, time series analysis, curve fitting with uncertainty propagation, and statistical modelling. Experiments covered include the Hall effect, Millikan oil drop, electron charge-to-mass ratio, pendulum dynamics, and capacitor discharge.
 
 **Tools:** Python, NumPy, Pandas, Matplotlib, SciPy, statsmodels
 
@@ -18,5 +18,6 @@ Data analysis and computational modelling scripts from undergraduate physics lab
 - Data cleaning, transformation, and validation
 - Statistical modelling and curve fitting with uncertainty analysis
 - Time series decomposition and forecasting
-- Data visualization and analytical reporting
+- Reproducible figures with error analysis
 - Automated pipelines and reproducible workflows
+- Publication-style figures and LaTeX reports
