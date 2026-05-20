@@ -23,3 +23,6 @@ Data analysis and computational modelling scripts from undergraduate physics lab
 - Reproducible figures with error analysis
 - Automated pipelines and reproducible workflows
 - Publication-style figures and LaTeX reports
+
+---
+© 2026 Kairat Batyrali. Code provided for portfolio review.
